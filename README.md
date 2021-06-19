@@ -4,5 +4,5 @@ Eradication is a bombing simulation game developed with OpenGL from scratch. The
 Project blog: https://eradication167.blogspot.com/
 
 ## Demo Video
-[![](https://img.youtube.com/vi/pGUb_fitmS4&t=0s/0.jpg)](https://www.youtube.com/watch?v=pGUb_fitmS4&t=0s)
+[![](https://img.youtube.com/vi/wnRvw9Frq2o/0.jpg)](https://www.youtube.com/watch?v=wnRvw9Frq2o)
 
